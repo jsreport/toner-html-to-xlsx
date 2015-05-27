@@ -1,20 +1,33 @@
 {
   "name": "toner-html-to-xlsx",
   "version": "0.0.1",
-  "description": "",
+  "description": "Toner recipe for converting html tables into excel xlsx",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
   },
-  "author": "Jan Blaha",
+  "author": {
+    "name": "Jan Blaha",
+    "email": "jan.blaha@hotmail.com"
+  },
+  "keywords": [
+    "jsreport",
+    "toner",
+    "xlsx"
+  ],
+  "homepage": "https://github.com/jsreport/toner-html-to-xlsx",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsreport/toner-html-to-xlsx.git"
+  },
   "license": "MIT",
   "dependencies": {
-    "html-to-xlsx": "^0.2.0",
-    "node.extend": "^1.1.4",
-    "stream-to-array": "^2.0.2"
+    "html-to-xlsx": "0.2.0",
+    "node.extend": "1.1.4",
+    "stream-to-array": "2.0.2"
   },
   "devDependencies": {
-    "mocha": "^2.2.5",
-    "should": "^6.0.3"
+    "mocha": "2.2.5",
+    "should": "6.0.3"
   }
 }

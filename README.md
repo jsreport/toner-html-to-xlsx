@@ -1,7 +1,7 @@
 #toner-html-to-xlsx
 
 
-[![Build Status](https://travis-ci.org/jsreport/toner-html-to-xlsx.png?branch=master)](https://travis-ci.org/jsreport/toner-html-to-xslx)
+[![Build Status](https://travis-ci.org/jsreport/toner-html-to-xlsx.png?branch=master)](https://travis-ci.org/jsreport/toner-html-to-xlsx)
 
 **[Toner](https://github.com/jsreport/toner) recipe for converting html tables into xlsx using [html-to-xlsx package](https://github.com/pofider/html-to-xlsx)**
 

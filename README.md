@@ -10,7 +10,7 @@ npm install toner-html-to-xlsx
 ```
 
 ```js
-toner.recipe("html-to-xlsx", require("toner-html-to-xlsx")();
+toner.recipe("html-to-xlsx", require("toner-html-to-xlsx")());
 ```
 
 See the [html-to-xlsx](https://github.com/pofider/html-to-xlsx) docs for details.

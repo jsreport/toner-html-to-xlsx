@@ -1,6 +1,6 @@
 {
   "name": "toner-html-to-xlsx",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Toner recipe for converting html tables into excel xlsx",
   "main": "index.js",
   "scripts": {
